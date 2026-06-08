@@ -1,0 +1,19 @@
+# React
+node_modules/
+build/
+
+# Spring
+target/
+
+# IDE
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+
+# env
+.env
+
+# logs
+*.log
